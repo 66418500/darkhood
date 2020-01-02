@@ -79,7 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    学无止境
+                    学无止境啦啦啦
                 </div>
 
                 <div class="links">
