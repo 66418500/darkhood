@@ -79,7 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    学无止境--nono
+                    学无止境--马上放弃
                 </div>
 
                 <div class="links">
